@@ -1,6 +1,6 @@
 # desafio-de-programacao
 
-Repositório montado para desafio CAPGEMINI
+Repositório montado para desafio de programação
 
 Questões: 
 1 - Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. 
